@@ -132,9 +132,3 @@ Name: Muhamad Ammar
 Email: Muhamedammar0900@gmail.com
 
 Project Link: https://github.com/Muhamedhossafy/JS-Projects
-
-## 🎉 Acknowledgements
-
-- Inspired by Jonas Schmedtmann's JavaScript course
-- Special thanks to MDN Web Docs
-- Community contributors
