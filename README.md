@@ -128,7 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name -https://github.com/Muhamedhossafy/JS-Projects
 
 Project Link: [https://github.com/your-username/ultimate-javascript-course](https://github.com/your-username/ultimate-javascript-course)
 
