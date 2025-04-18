@@ -127,8 +127,6 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Name: Muhamad Ammar
-
-Email: Muhamedammar0900@gmail.com
-
-Project Link: https://github.com/Muhamedhossafy/JS-Projects
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
+- Project Link: https://github.com/Muhamedhossafy/JS-Projects
