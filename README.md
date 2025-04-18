@@ -1,4 +1,4 @@
-# Ultimate JavaScript Course - Project Readme
+# Ultimate JavaScript Projects 
 
 ## 📌 Project Overview
 This repository contains all the code, exercises, and projects from the "Ultimate JavaScript Course" - a comprehensive journey from JavaScript fundamentals to advanced concepts and real-world applications.
