@@ -127,10 +127,11 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
+Name: Muhamad Ammar
 
-Your Name -https://github.com/Muhamedhossafy/JS-Projects
+Email: Muhamedammar@gmail.com
 
-Project Link: [https://github.com/your-username/ultimate-javascript-course](https://github.com/your-username/ultimate-javascript-course)
+Project Link: https://github.com/Muhamedhossafy/JS-Projects
 
 ## 🎉 Acknowledgements
 
