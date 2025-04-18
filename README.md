@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 Name: Muhamad Ammar
 
-Email: Muhamedammar@gmail.com
+Email: Muhamedammar0900@gmail.com
 
 Project Link: https://github.com/Muhamedhossafy/JS-Projects
 
